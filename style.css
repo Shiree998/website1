@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-transform: uppercase;
+}
+.parent{
+    height: 360px;
+    width: 140px;
+    background-color: black;
+    border-radius: 10px;
+}
+.child1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 100%;
+    margin: 20px;
+}
+.child2{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 100%;
+    margin: 20px;
+}
+.child3{
+    height: 100px;
+    width: 100px;
+    background-color:green;
+    border-radius: 100%;
+    margin: 20px;
+}
